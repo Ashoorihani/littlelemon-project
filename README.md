@@ -1,1 +1,3 @@
-# littlelemon-project
+API Paths:
+- /api/bookings/
+- /api/registration/
