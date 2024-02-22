@@ -1,3 +1,3 @@
 API Paths:
-- /api/bookings/
-- /api/registration/
+- /api/bookingsapi/
+- /api/littlelemonAPI/
